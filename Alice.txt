@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 here is some text on the second line.
 Something else changed here.
 I'm adding another line here.
+Here's an addition directly to the Remote Alice file
